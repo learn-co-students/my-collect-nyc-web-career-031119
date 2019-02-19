@@ -1,5 +1,3 @@
-
-
 def my_collect(arr)
   i = 0
   my_arr = []
